@@ -12,11 +12,11 @@ Training data set has 9 sets in total, whereas Test data set has 9 sets. The Tes
 
 Note: All sets irrespective of whether in train, public or private are independent of each other and share no article ids(pmid) in common.
 
-# My Solution Approach
+# My Solution Approach Summary
 Start with document cleaning and pre-processing.
 Find the tfidf score of each paper. 
 Use cosine similarity to find similar papers within that set. (Constraint as per problem).
 
 # Overall Rank
-23
+16
 
